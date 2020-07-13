@@ -1,0 +1,8 @@
+main: com.HomeSMP.GodBoots.Main
+name: GodBoots
+version: 1.0
+author: CodedRed
+api-version: 1.16
+
+commands:
+  GodBoots:
